@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 import in.abhi.request.Passenger;
 import in.abhi.response.Ticket;
 import in.abhi.service.BookingService;
-import jakarta.websocket.server.PathParam;
 
 @RestController
 public class BookingRestController {
